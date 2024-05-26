@@ -1,0 +1,16 @@
+nr_aluno,nome,apelido,curso,media_entrada,curso_concluido,media_final
+200722, Catarina, da Silva, Psicologia, 13, 0, nan
+200739, Alice, Pires, Psicologia, 17, 0, nan
+2003485, Alice, Pires, Psicologia, 13, 0, nan
+2003504, Beatriz, Laranjeira, Comunicação, 12, 0, nan
+2003821, Nuno, Laranjeira, Psicologia, 16, 0, nan
+2007103, Catarina, Castelo, Informática, 14, 0, nan
+2020537, Maria João, Sampaio, Comunicação, 12, 0, nan
+2021847, Patrícia, Pires, Psicologia, 10, 0, nan
+2022848, Carla, Pereira, Psicologia, 17, 0, nan
+20031072, Nuno, Pires, Comunicação, 14, 0, nan
+20191494, Joana, Castelo, Psicologia, 15, 0, nan
+20191750, Anne, Cintra, Comunicação, 12, 0, nan
+20211052, Raquel, Castelo, Comunicação, 16, 0, nan
+20211664, Beatriz, Capicua, Informática, 16, 0, nan
+20221087, Rodrigo, Morais, Informática, 16, 0, nan
